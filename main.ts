@@ -1,5 +1,5 @@
 input.onButtonPressed(Button.A, function () {
-    Hasiera += 1
+	
 })
 DFRobotMaqueenPlus.I2CInit()
 let Hasiera = 0
